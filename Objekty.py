@@ -47,6 +47,7 @@ class Kruh:
 Prvy = Kruh(-10)
 Druhy = Kruh(10)
 Treti = Kruh(5)
+Stvrty = Kruh(23)
 # Treti = Prvy + Druhy
 # print(Prvy.obsah())
 # print(Prvy)
